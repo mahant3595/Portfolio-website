@@ -1,0 +1,20 @@
+body {
+  font-family: Arial;
+  text-align: center;
+  background: #f4f4f4;
+}
+
+#projects {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.project {
+  border: 1px solid #ccc;
+  padding: 15px;
+  margin: 10px;
+  width: 300px;
+  background: white;
+  border-radius: 10px;
+}
